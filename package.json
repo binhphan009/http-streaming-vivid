@@ -6,7 +6,7 @@
   "module": "dist/videojs-http-streaming.es.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:videojs/http-streaming.git"
+    "url": "git@github.com:binhphan009/http-streaming-vivid.git"
   },
   "scripts": {
     "prenetlify": "npm run build",
